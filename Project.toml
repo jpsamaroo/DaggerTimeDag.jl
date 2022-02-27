@@ -1,0 +1,14 @@
+name = "DaggerTimeDag"
+uuid = "d4c6b0a2-07d6-4512-bd03-8fbe11688658"
+authors = ["Julian P Samaroo <jpsamaroo@jpsamaroo.me>"]
+version = "0.1.0"
+
+[deps]
+Dagger = "d58978e5-989f-55fb-8d15-ea34adc7bf54"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+TimeDag = "91963e24-6e66-4132-aeb8-436d9f37dbc7"
+
+[compat]
+Dagger = "14"
+TimeDag = "0.1"
+julia = "1"
